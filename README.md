@@ -36,7 +36,7 @@ How to Run
 
 Since this is a standalone, client-side application, running it is very simple:
 
-Ensure you have the bank_app.html file on your local machine.
+Ensure you have the bank.html file on your local machine.
 
 Double-click the bank.html file.
 
